@@ -8,6 +8,13 @@
 - Singup form
 - Form Validation
 - useRef hook
+- Firebase setup
+- Deploying app to production
+- Create Signup User Account in firebase
+- Implement signin user api
+- Created redux store with userSlice
+- Implemented signout 
+- Update profile api call
 
 ## Features
 

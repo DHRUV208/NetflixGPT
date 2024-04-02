@@ -1,3 +1,4 @@
+import Header from "./Header"
 
 const Browse = () => {
 
@@ -5,7 +6,7 @@ const Browse = () => {
 
   return (
     <div>
-      Browser
+      <Header />
     </div>
   )
 }
