@@ -2,6 +2,9 @@
 
 - Create React App (CRA)
 - Tailwind css
+- Header
+- Login form
+- Singup form
 
 ## Features
 
