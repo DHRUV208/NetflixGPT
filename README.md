@@ -33,6 +33,11 @@
 - Image CDN URL tmdb
 - UI/UX LOOK BETTER WITH TAILWINDCSS
 - usePopularMovies custom hooks
+- ### GPT search 
+- GPT search page
+- GPT search bar
+- Multi-language feature
+- Integrate GPT API'S
 
 
 
